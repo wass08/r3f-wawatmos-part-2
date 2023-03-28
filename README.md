@@ -1,11 +1,13 @@
-![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/227139129-3a60564c-58d7-4690-87f1-5471a1c202f6.jpg)
+![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/228131349-980ddf73-12f0-40bc-a0f8-0d0911d9e3bb.png)
 
 
-[Demo](https://codesandbox.io/p/github/wass08/r3f-wawatmos-part-1)
 
-[Video tutorial](https://youtu.be/WL5zrKii5qc)
+[Demo](https://codesandbox.io/p/github/wass08/r3f-wawatmos-part-2)
+
+[Video tutorial](https://youtu.be/_KlIkgvadmc)
 
 [Starter pack](https://github.com/wass08/r3f-wawatmos-starter)
+[Part 1 Code](https://github.com/wass08/r3f-wawatmos-part1)
 
 
 ### 3D Model credits
