@@ -1,5 +1,4 @@
-![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/228131349-980ddf73-12f0-40bc-a0f8-0d0911d9e3bb.png)
-
+![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/228133207-3de69eb0-80cc-4f64-a549-979628a6dfeb.jpg)
 
 
 [Demo](https://codesandbox.io/p/github/wass08/r3f-wawatmos-part-2)
