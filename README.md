@@ -3,14 +3,11 @@
 
 [Demo](https://codesandbox.io/p/github/wass08/r3f-wawatmos-part-2)
 
-[Video tutorial](https://youtu.be/_KlIkgvadmc)
+[Video tutorial](https://youtu.be/zwNF1-lsia8)
 
-[Starter pack](https://github.com/wass08/r3f-wawatmos-starter)
-[Part 1 Code](https://github.com/wass08/r3f-wawatmos-part1)
+[Starter pack](https://github.com/wass08/r3f-vite-starter)
 
 
 ### 3D Model credits
 
-Cloud by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/44cGXp6_8WD)
-
-Airplane by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/8VysVKMXN2J)
+Torii Gate by Hattie Stroud [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/07__lYTDdEH)
