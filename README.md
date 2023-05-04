@@ -3,9 +3,9 @@
 
 [Demo](https://codesandbox.io/p/github/wass08/r3f-wawatmos-part-2)
 
-[Video tutorial](https://youtu.be/zwNF1-lsia8)
+[Video tutorial](https://youtu.be/_KlIkgvadmc)
 
-[Starter pack](https://github.com/wass08/r3f-vite-starter)
+[Starter pack](https://github.com/wass08/r3f-wawatmos-starter)
 
 
 ### 3D Model credits
